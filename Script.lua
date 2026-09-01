@@ -5,7 +5,7 @@ local StarterGui = game:GetService("StarterGui")
 local TweenService = game:GetService("TweenService")
 
 -- ⚙️ Configurações
-local WHITE_CROSSHAIR = "rbxassetid://122168054840500"
+local WHITE_CROSSHAIR = "rbxassetid://107154473450142"
 local TARGET_TOOL_NAME = "Gun" -- Nome da Tool que ativa o sistema
 local ATIVADO = false -- Inicia desativado até a Tool ser equipada
 
